@@ -35,7 +35,7 @@ layout: default
   <ul>
     {% for post in cat[1] %}
      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span> | <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
+        <span>{{ post.date | date: date_format }} - </span><a href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
       </li>
     {% endfor %}
   </ul>
