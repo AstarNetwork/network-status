@@ -7,3 +7,4 @@ categories: release
 
 Details available on 
 https://github.com/AstarNetwork/Astar/releases
+
