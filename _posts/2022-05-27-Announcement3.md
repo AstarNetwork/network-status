@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Release is live
+title:  "New Release is live"
 date:   2022-05-27 10:00:00 +0200
 categories: release
 ---
