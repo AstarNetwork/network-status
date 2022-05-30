@@ -29,4 +29,21 @@ layout: default
 {% endfor %}
 </div>
 
+<div class="container">
+  {% for cat in site.categories %}
+  <h3>{{ cat[0] }}</h3>
+  <ul>
+    {% for post in cat[1] %}
+     <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+</div>
 
