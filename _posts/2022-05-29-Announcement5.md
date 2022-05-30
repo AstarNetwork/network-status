@@ -7,4 +7,4 @@ categories: release
 
 Announcement about an important release v3xxxx
 
-Please note that a list of all releases is maintained on https://github.com/AstarNetwork/Astar/releases
+For an up-to-date list of releases of Astar Network, please visit [Release page for AstarNetwork/Astar repo](https://github.com/AstarNetwork/Astar/releases)
