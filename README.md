@@ -17,3 +17,5 @@ categories: release
 
 
 Important - if the date is in future, post will not be visible. When post file is merged to main, bacground build has to be executed (it is automated) before the post is visible publicly.
+
+Also, date format shoud be verbose as it designates UTC timezone (read here for more info [https://jekyllrb.com/docs/configuration/options/)](https://mehmandarov.com/jekyll-content-on-time/)
