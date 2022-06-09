@@ -12,6 +12,7 @@ github_username:  AstarNetwork
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+timezone: Europe/Berlin
 theme: minima
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
