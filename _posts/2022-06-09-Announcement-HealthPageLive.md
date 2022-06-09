@@ -7,4 +7,4 @@ categories: announcement
 
 Astar Network Health Page is now live. 
 
-Astar Network Health Page contains and up-to-date information and announcements related to netowrk performance and technical updates such as new releases for Shiden and Astar Networks.
+Astar Network Health Page contains and up-to-date information and announcements related to netowrk performance and technical updates such as new releases for Astar Network and Shiden Network.
